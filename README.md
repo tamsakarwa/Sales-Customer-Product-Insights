@@ -1,4 +1,4 @@
-# Sales-Customer-Product-Insights
+# Customer & Product Insights Platform
 
 ## 📌 Project Overview
 Comprehensive sales analytics project leveraging Power BI to analyze customer purchasing behavior, product performance, and overall sales trends. Built an interactive dashboard with drill-down reports that highlight key KPIs such as revenue growth, top-performing products, customer segmentation, and regional sales distribution. Data cleaning and preprocessing were performed using SQL, followed by integration into Power BI for visualization and insight generation. This project demonstrates end-to-end data wrangling, BI reporting, and actionable business insights.
